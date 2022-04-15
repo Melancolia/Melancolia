@@ -1,7 +1,6 @@
-- 👋 Hi
-- 👀 nHax,nCodeArt,@TrungBui
-- 🌱 JS,SAP,NodeJS,SQL.
-- 📫 Reach me in email, send me a DM.
+👀 nHax,nCodeArt,@TrungBui
+🌱 JS,SAP,NodeJS,SQL.
+📫 Reach me in email, send me a DM.
 
 <!---
 Melancolia/Melancolia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
